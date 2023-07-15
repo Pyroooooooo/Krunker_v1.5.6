@@ -1,0 +1,19 @@
+{
+  "name": "KrunkerIO_v1.5.6",
+  "version": "1.5.6",
+  "description": "Krunker",
+  "author": "Krunker",
+  "license": "Krunker",
+  "main": "./main/main.js",
+  "dependencies": {
+    "msgpack-lite": "0.1.26",
+    "path": "0.12.7",
+    "ws": "8.13.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "10.4.7"
+  }
+}
