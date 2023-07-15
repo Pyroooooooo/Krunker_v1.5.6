@@ -38,7 +38,7 @@ A heads up, slidehopping was a bit different back then ;)
 This has been tested to work as intended on [Node.js v18.16.1](https://nodejs.org/download/release/v18.16.1/)
 Please install Node.js before attempting any of the steps below.
 
-1) Download the Source Code as a Zip or via git.
+1) Download the Source Code as a [Zip](https://github.com/BluZed/Krunker_v1.5.6/archive/refs/heads/main.zip) or via git.
 2) Open Terminal and ```cd``` into the folder containing the source code.
 3) Run ```npm i```  to install dependencies and after that completes,
 4) Run ```npm start``` to start game.
