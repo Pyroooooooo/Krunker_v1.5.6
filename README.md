@@ -48,7 +48,7 @@ Please install Node.js before attempting any of the steps below.
 
 You need a video tutorial? Here ya go:
 <div width="inherit" height="inherit" align=center>
-<iframe width="500" height="300" src="THIS_IS_COMING_SOON" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/RK2QzveMlrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 *Happy Gaming!*
