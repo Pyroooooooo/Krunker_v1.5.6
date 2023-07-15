@@ -15,6 +15,7 @@ This is Krunker, version 1.5.6 released on August 19, 2019, which is just the ve
 5) **Last and a very important point: Logins will not work and please do not try to login to your account for security reasons.** Just for fun, the name that displays in the leaderboard when you play the game is Sidney ;)
 <div align="center">
   	<p>
+		<a><img src="https://media.discordapp.net/attachments/1100782582678954107/1129665343632187543/snap.png" width="600" height="250"></a>
 		<a href="https://discord.com/channels/448194623580667916/534719260497543169/612941468763684864"><img src="https://media.discordapp.net/attachments/1100782582678954107/1129644608830308402/image.png" width="600" height="250"></a>
   	</p>
 </div>
