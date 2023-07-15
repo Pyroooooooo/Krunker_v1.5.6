@@ -70,6 +70,8 @@ Line `80696` exposes the Game variable to the global window variable, and makes 
 
 Game server code at `main/gameserver.js` is completely made my me and can be improved. All it does is make the game think its connected to a server and also it manages the game time & the map which is loaded in game. It is also the next step to achieving multiplayer and all the packet labels that would be relevant here are around line `85552` in the edited `game.D28pq.js` file.
 
+Currently I haven't added any code into the game source file that connects the game to the locally hosted websocket, I make the game forcefully connect only to ` "ws://localhost:8080/"` by hooking the global websocket class and this part of the code is available in the electron `main/preload.js` file.
+
 My Discord is `bluzed` (no discrim tag),  feel free to dm me.
 
 I wish you good luck with your code!
