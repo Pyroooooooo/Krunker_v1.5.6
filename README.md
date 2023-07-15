@@ -46,10 +46,7 @@ Please install Node.js before attempting any of the steps below.
 > Note: Step 1 and Step 3 only need to be run once. You can start from Step 2 and then do Step 4 once you have done all of them once in the correct order, to start the game again.
 > During Step 2, remember that the correct folder which should be your current working directory is the one which has the package.json file.
 
-You need a video tutorial? Here ya go:
-<div width="inherit" height="inherit" align=center>
-<iframe width="500" height="300" src="https://www.youtube.com/embed/RK2QzveMlrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+You need a video tutorial? Here ya go: [Link to Youtube Video](https://example.com)
 
 *Happy Gaming!*
 # Some Extra Customizations 
