@@ -20,10 +20,10 @@ This is Krunker, version 1.5.6 released on August 19, 2019, which is just the ve
   	</p>
 </div>
 ^ Click the image above to go the message in Krunker Bunker discord.
-
-
+<div><br></div>
 This is solely made for the purpose of revisiting og krunker by players who used to play the game or for people who are just curious.
 A heads up, slidehopping was a bit different back then ;)
+<div><br></div>
 
 >**Note: I do not own this, the credit goes to the Krunker Developer Team who made the game and if they want this or any part of this removed, I'm willing to do so, without any strings attached.**
 >
